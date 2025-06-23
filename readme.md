@@ -5,7 +5,7 @@
 Lista de tarefas
 
 Aplicação java
-- [ ] Iniciando projeto java
+- [x] Iniciando projeto java
 - [ ] Publicando nosso app java dentro do container (docker)
 - [ ] Testando nosso container de app java
 
