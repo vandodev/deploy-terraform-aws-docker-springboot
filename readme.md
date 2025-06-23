@@ -6,6 +6,7 @@ Lista de tarefas
 
 Aplicação java
 - [x] Iniciando projeto java
+- [x] Configurando endpoint básico
 - [ ] Publicando nosso app java dentro do container (docker)
 - [ ] Testando nosso container de app java
 
