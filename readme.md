@@ -7,8 +7,8 @@ Lista de tarefas
 Aplicação java
 - [x] Iniciando projeto java
 - [x] Configurando endpoint básico
-- [ ] Publicando nosso app java dentro do container (docker)
-- [ ] Testando nosso container de app java
+- [x] Publicando nosso app java dentro do container (docker)
+- [x] Testando nosso container de app java
 
 Infraestrutura básica
 - [ ] Iniciando o projeto de infraestrutura (terraform init)
